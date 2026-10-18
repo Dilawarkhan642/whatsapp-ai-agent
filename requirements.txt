@@ -1,0 +1,16 @@
+python-dotenv
+langchain-google-genai
+langchain-core
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langgraph
+chromadb
+streamlit
+streamlit-mic-recorder
+requests
+httpx
+fastapi
+pydantic
